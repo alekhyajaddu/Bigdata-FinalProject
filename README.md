@@ -10,6 +10,7 @@ This repo is for processing text using Databricks Community Edition and PySpark.
 * Databricks Community Edition
 * PySpark
 * Spark Processing Engine
+* Seaborn
 * Word Cloud
 
 # Link to the published Databricks notebook
@@ -155,3 +156,8 @@ wordcloud_generator.create_word_cloud(clean_data)
 ```
 
 ![wordCloud](https://github.com/alekhyajaddu/bigdata-finalproject/blob/main/wordCloud.JPG?raw=true)
+
+# References
+* https://github.com/sudheera96/pyspark-textprocessing
+* https://www.section.io/engineering-education/word-cloud/
+* https://seaborn.pydata.org/tutorial/color_palettes.html
